@@ -495,7 +495,7 @@ async function sendEmail() {
     secure: false,
     auth: {
       user: 'khoroshko12@mail.ru',
-      pass: 'J58jAC5MDSLFji4rZJMq',
+      pass: 'password',
     }
   });
 
